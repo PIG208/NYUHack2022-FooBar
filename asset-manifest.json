@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/NYUHack2022-FooBar/static/css/main.77c68ed8.css",
-    "main.js": "/NYUHack2022-FooBar/static/js/main.218334da.js",
+    "main.js": "/NYUHack2022-FooBar/static/js/main.36821812.js",
     "static/media/doctor2.jpg": "/NYUHack2022-FooBar/static/media/doctor2.496930b0da9bb13e9d87.jpg",
     "static/media/pills.jpg": "/NYUHack2022-FooBar/static/media/pills.fbac35cfe221e31eb8a9.jpg",
     "static/media/doctor.jpg": "/NYUHack2022-FooBar/static/media/doctor.4b024be210f3dbf1fafe.jpg",
     "index.html": "/NYUHack2022-FooBar/index.html",
     "main.77c68ed8.css.map": "/NYUHack2022-FooBar/static/css/main.77c68ed8.css.map",
-    "main.218334da.js.map": "/NYUHack2022-FooBar/static/js/main.218334da.js.map"
+    "main.36821812.js.map": "/NYUHack2022-FooBar/static/js/main.36821812.js.map"
   },
   "entrypoints": [
     "static/css/main.77c68ed8.css",
-    "static/js/main.218334da.js"
+    "static/js/main.36821812.js"
   ]
 }
